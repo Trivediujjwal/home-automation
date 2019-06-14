@@ -21,6 +21,7 @@ This is IoT based home automation project is done using low cost NodeMCU module,
 
 ![Transistor](https://github.com/Trivediujjwal/home-automation/blob/master/4177ZsM1EpL._SX522_.jpg)
 ![DHT 11](https://github.com/Trivediujjwal/home-automation/blob/master/51-fjA52JRL._SX425_.jpg)
+![NODEmcu](https://github.com/Trivediujjwal/home-automation/blob/master/NodeMCUv1.0-pinout.jpg)
 
 #**FUNCTIONS OF BASIC  COMPONENTS USED:**
 

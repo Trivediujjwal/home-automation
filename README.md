@@ -4,6 +4,7 @@ This is IoT based home automation project is done using low cost NodeMCU module,
 
 #**Components used**
 1. Node MCU (Lolin)
+![](https://github.com/Trivediujjwal/home-automation/blob/master/4177ZsM1EpL._SX522_.jpg)
 2. DHT 11 
 3. LDR 
 4. Relay 6V 
